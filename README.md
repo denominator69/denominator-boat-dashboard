@@ -49,3 +49,7 @@ Most open-source marine Pi dashboards (d3kOS, boatcontrol, BoatBuddy) are Signal
 ![Port view, GUI 17 vs GUI 19](screenshots/02_port_g17_vs_g19.jpg)
 
 ![Transom name, GUI 17 vs GUI 19](screenshots/03_transom_name_g17_vs_g19.jpg)
+
+![User screenshot - 3D boat view with controls](screenshots/IMG_1911.jpg)
+
+![User screenshot - stern view](screenshots/IMG_1910.jpg)
